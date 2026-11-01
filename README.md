@@ -17,7 +17,7 @@
 * **Các chế độ phát:** AutoPlay, Lặp bài (Loop), Trộn bài (Shuffle).
 * **Điều khiển tiện lợi:** Hỗ trợ cả lệnh gạch chéo (`/`) và tiền tố (`+`), tích hợp nút bấm tương tác nhanh.
 
-![Giao diện phát nhạc SukiMusic](https://kappa.lol/n3TSwm)
+![Giao diện phát nhạc SukiMusic](/image/nowplaying.png)
 
 ---
 
