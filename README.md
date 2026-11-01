@@ -1,10 +1,7 @@
-> ## SukiMusic — Nghe nhạc chất lượng cao & Audio Truyện 24/7
-> [Thêm vào Discord](https://discord.com) • [Tham gia Discord hỗ trợ](https://discord.gg)
+## SukiMusic — Nghe nhạc chất lượng cao & Audio Truyện 24/7
+[Thêm vào Discord](https://discord.com/oauth2/authorize?client_id=1431131778067730462&permissions=281474980236352&integration_type=0&scope=bot+applications.commands) • [Tham gia Discord hỗ trợ](https://discord.gg/efj8JPqdG7)
 
 ---
-
-> ## Tất cả tính năng & Lệnh điều khiển
-> Xem chi tiết tại: [Bấm vào đây](https://sukimusic.vn)
 
 ### Tính năng chính
 * **Đa nền tảng:** Hỗ trợ YouTube, Spotify, SoundCloud, Zing MP3 và NhacCuaTui.
@@ -20,21 +17,22 @@
 
 ---
 
-> ## Web Player điều khiển nhạc trực tiếp
-> Truy cập Dashboard: [https://dashboard.sukimusic.vn](https://dashboard.sukimusic.vn)
+## Web Player điều khiển nhạc trực tiếp
+Truy cập Dashboard: [Web Dashboard/Control](https://music.sukimc.me) • [Web status](https://music.sukimc.me/status)
 
 * Quản lý danh sách phát, chỉnh âm lượng và chuyển bài trực tiếp trên trình duyệt máy tính hoặc điện thoại.
 * Đồng bộ thời gian thực với phòng voice trong Discord.
 
 ![Web Player SukiMusic](/image/webgui.png)
+![Web Player SukiMusic](/image/webgui2.png)
 
 ---
 
-> ## Hoàn toàn miễn phí
+## Hoàn toàn miễn phí
 * Mở khóa sẵn toàn bộ tính năng (chỉnh âm lượng, phát 24/7, autoplay, audio truyện...).
 * Không có paywall, không ép buộc vote để sử dụng tính năng.
 
 ---
 
-> ## Bạn có câu hỏi hoặc cần hỗ trợ?
-> [Tham gia máy chủ Discord của chúng tôi](https://discord.gg)
+## Bạn có câu hỏi hoặc cần hỗ trợ?
+[Tham gia máy chủ Discord của chúng tôi](https://discord.gg/efj8JPqdG7)
