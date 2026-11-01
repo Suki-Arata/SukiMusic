@@ -1,8 +1,6 @@
 > ## SukiMusic — Nghe nhạc chất lượng cao & Audio Truyện 24/7
 > [Thêm vào Discord](https://discord.com) • [Tham gia Discord hỗ trợ](https://discord.gg)
 
-![SukiMusic Banner](https://link-anh-cua-ban/banner.png)
-
 ---
 
 > ## Tất cả tính năng & Lệnh điều khiển
@@ -18,6 +16,7 @@
 * **Điều khiển tiện lợi:** Hỗ trợ cả lệnh gạch chéo (`/`) và tiền tố (`+`), tích hợp nút bấm tương tác nhanh.
 
 ![Giao diện phát nhạc SukiMusic](/image/nowplaying.png)
+![Giao diện paht1 nhạc Lofi](/image/lofiplaying.png)
 
 ---
 
@@ -27,7 +26,7 @@
 * Quản lý danh sách phát, chỉnh âm lượng và chuyển bài trực tiếp trên trình duyệt máy tính hoặc điện thoại.
 * Đồng bộ thời gian thực với phòng voice trong Discord.
 
-![Web Player SukiMusic](https://link-anh-cua-ban/web-player.png)
+![Web Player SukiMusic](/image/webgui.png)
 
 ---
 
