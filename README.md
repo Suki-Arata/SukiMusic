@@ -1,56 +1,41 @@
-# 🎵 SukiMusic — Bot Âm Nhạc & Giải Trí Cho Cộng Đồng Việt
+> ## SukiMusic — Nghe nhạc chất lượng cao & Audio Truyện 24/7
+> [Thêm vào Discord](https://discord.com) • [Tham gia Discord hỗ trợ](https://discord.gg)
 
-**SukiMusic** là bot âm nhạc hoàn toàn miễn phí, được phát triển dành riêng cho cộng đồng Discord Việt Nam. 
-Bot mang đến trải nghiệm nghe nhạc ổn định, mượt mà cùng nhiều tính năng giải trí độc đáo như Audio Truyện, đài Lofi 24/7 và Web Dashboard tiện lợi.
-
----
-
-## 🔧 Tính năng nổi bật
-
-### 🎶 Âm nhạc & Đa nguồn phát
-* **Hỗ trợ đa dạng nguồn nhạc:** Phát nhạc dễ dàng từ YouTube, Spotify, SoundCloud, cùng các nền tảng quen thuộc tại Việt Nam như **Zing MP3** và **NhacCuaTui**.
-* **Xem lời bài hát (Lyrics):** Tra cứu và hiển thị lời bài hát trực tiếp ngay trong Discord.
-
-### 📖 Hệ thống Audio Truyện độc quyền (`/truyen`, `/autotruyen`)
-* **Phát truyện audio phong phú:** Thưởng thức nhiều truyện audio và tính năng tự động chuyển Audio mới (`/autotruyen`).
-* **Lưu và nghe tiếp dễ dàng:** Dễ dàng lưu lại tiến trình nghe và xem danh sách truyện đang theo dõi bằng lệnh `/truyen list` để nghe tiếp bất cứ lúc nào.
-
-### 📻 Đài Lofi 24/7 (`/lofi`)
-* **Thư giãn không ngừng nghỉ:** Phát đài Lofi liên tục 24/7 để học tập và làm việc.
-* **Tự động khôi phục:** Bot tự động vào lại kênh thoại và tiếp tục phát nếu gặp sự cố mạng hoặc khởi động lại.
-
-### 🌐 Web Dashboard tiện lợi
-* **Điều khiển trên trình duyệt:** Xem thông tin bài đang phát, quản lý hàng chờ (Queue) và chỉnh nhạc trực tiếp qua giao diện Web trên điện thoại hoặc máy tính.
-
-### 🎛️ Cá nhân hóa trải nghiệm
-* **Playlist & Yêu thích (`/fav`, `/playlist`):** Tự tạo danh sách nhạc riêng và phát lại nhanh chóng.
-* **Tùy chỉnh linh hoạt:** Ghi nhớ âm lượng cá nhân (`/volume`), chỉnh tốc độ bài hát (`/speed`), lặp bài (`/loop`) và tự phát tiếp (`/autoplay`).
+![SukiMusic Banner](https://link-anh-cua-ban/banner.png)
 
 ---
 
-## 💎 Hoàn toàn miễn phí
+> ## Tất cả tính năng & Lệnh điều khiển
+> Xem chi tiết tại: [Bấm vào đây](https://sukimusic.vn)
 
-* **Không giới hạn tính năng:** Mở khóa sẵn toàn bộ tính năng cao cấp (chỉnh âm lượng, phát 24/7, autoplay, audio truyện...) cho tất cả người dùng.
-* **Không Paywall, không ép Vote:** Thoải mái sử dụng mọi lúc mà không bị làm phiền bởi quảng cáo hay bắt buộc nạp phí.
+### Tính năng chính
+* **Đa nền tảng:** Hỗ trợ YouTube, Spotify, SoundCloud, Zing MP3 và NhacCuaTui.
+* **Audio Truyện độc quyền:** Tìm kiếm và phát truyện audio tiếng Việt, tự động chuyển tập (`/autotruyen`), lưu và tiếp tục nghe qua danh sách truyện (`/truyen list`).
+* **Đài Lofi 24/7:** Phát Lofi liên tục, tự động kết nối lại nếu bot khởi động lại.
+* **Lời bài hát (Lyrics):** Tìm và hiển thị lời bài hát đồng bộ trực tiếp trong Discord.
+* **Cá nhân hóa:** Tạo playlist riêng (`/playlist`), lưu bài hát yêu thích (`/fav`), nhớ âm lượng cá nhân (`/volume`), chỉnh tốc độ (`/speed`).
+* **Các chế độ phát:** AutoPlay, Lặp bài (Loop), Trộn bài (Shuffle).
+* **Điều khiển tiện lợi:** Hỗ trợ cả lệnh gạch chéo (`/`) và tiền tố (`+`), tích hợp nút bấm tương tác nhanh.
 
----
-
-## ⚙️ Dễ sử dụng & Tối ưu
-
-* **Linh hoạt câu lệnh:** Hoạt động tốt với cả Slash Commands (`/`) và Prefix (`+`).
-* **Giao diện nút bấm trực quan:** Dễ dàng điều khiển nhạc qua các nút bấm tương tác mà không cần nhớ nhiều câu lệnh.
-
----
-
-## 🔒 Quyền riêng tư & An toàn
-
-* **Không ghi âm:** Bot chỉ truyền phát âm thanh, tuyệt đối không thu âm hay lưu trữ giọng nói người dùng.
-* **Bảo mật dữ liệu:** Chỉ lưu các thông tin cài đặt cần thiết và tuân thủ đầy đủ chính sách của Discord.
+![Giao diện phát nhạc SukiMusic](https://kappa.lol/n3TSwm)
 
 ---
 
-## 🌐 Hỗ trợ & Liên kết
+> ## Web Player điều khiển nhạc trực tiếp
+> Truy cập Dashboard: [https://dashboard.sukimusic.vn](https://dashboard.sukimusic.vn)
 
-* 🔗 **Mời Bot:** [Bấm vào đây để mời SukiMusic](https://discord.com/oauth2/authorize?client_id=1431131778067730462&permissions=281474980236352&integration_type=0&scope=bot+applications.commands)
-* 💬 **Support Server:** [Tham gia Server Hỗ Trợ](https://discord.gg/efj8JPqdG7)
-* 📌 **Dashboard:** [dashboard.sukimusic.vn](https://music.sukimc.me) 
+* Quản lý danh sách phát, chỉnh âm lượng và chuyển bài trực tiếp trên trình duyệt máy tính hoặc điện thoại.
+* Đồng bộ thời gian thực với phòng voice trong Discord.
+
+![Web Player SukiMusic](https://link-anh-cua-ban/web-player.png)
+
+---
+
+> ## Hoàn toàn miễn phí
+* Mở khóa sẵn toàn bộ tính năng (chỉnh âm lượng, phát 24/7, autoplay, audio truyện...).
+* Không có paywall, không ép buộc vote để sử dụng tính năng.
+
+---
+
+> ## Bạn có câu hỏi hoặc cần hỗ trợ?
+> [Tham gia máy chủ Discord của chúng tôi](https://discord.gg)
